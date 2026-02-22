@@ -6,8 +6,7 @@ Selamat datang di profil GitHub saya! Saya seoranang Pemula yang sedang belajar 
 - 🌱 **Sedang Mempelajari**: Php, Lua, JavaScript/JS
 - 🔭 **Sedang Mengerjakan**: Banyak 🗿
 - 💡 **Tertarik Pada**: Web Dev
-- ⚡ **Fun Fact**: Saya Suka Menonton Anime Dan istri Saya D
-- Adalah Takanashi Hoshino :>
+- ⚡ **Fun Fact**: Saya Suka Menonton Anime Dan istri Saya Adalah Takanashi Hoshino :>
 
 ### 🛠️ Tech Stack yang Sedang Dipelajari
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
