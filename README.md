@@ -16,11 +16,6 @@ Selamat datang di profil GitHub saya! Saya seoranang Pemula yang sedang belajar 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### 📈 Statistik GitHub
-![Y4AMA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y4AMA&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Y4AMA&layout=compact&theme=tokyonight)
-
 ### 📫 Hubungi Saya
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hitampuqimak@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/suqi_exploit_112)
