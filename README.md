@@ -24,9 +24,9 @@ Selamat datang di profil GitHub saya! Saya seorang [sebutkan profesi/minatmu, mi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Y4AMA&layout=compact&theme=tokyonight)
 
 ### 📫 Hubungi Saya
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emailkamu@example.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/username_ig_kamu)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/username_twt_kamu)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hitampuqimak@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/suqi_exploit_112)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YAMA)
 
 ---
 
