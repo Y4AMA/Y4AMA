@@ -1,4 +1,4 @@
-# Halo! Saya Y4AMA 👋
+# Halo! Saya YAMA 👋
 
 Selamat datang di profil GitHub saya! Saya seorang [sebutkan profesi/minatmu, misalnya: pelajar, developer pemula, penggemar teknologi, dll.] yang sedang belajar dan berkembang di dunia pemrograman.
 
