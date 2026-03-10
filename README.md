@@ -2,8 +2,8 @@
 
 Selamat datang di profil GitHub saya! Saya seoranang Pemula yang sedang belajar dan berkembang di dunia pemrograman.
 
-### 🚧 Status Saat Ini
-- 🌱 **Sedang Mempelajari**: Php, Lua, JavaScript/JS
+### 😶‍🌫️ Status Saat Ini
+- 🌱 **Sedang Mempelajari**: Lua, Javascript, Python
 - 🔭 **Sedang Mengerjakan**: Banyak 🗿
 - 💡 **Tertarik Pada**: Web Dev
 - ⚡ **Fun Fact**: Saya Suka Menonton Anime Dan istri Saya Adalah Takanashi Hoshino :>
